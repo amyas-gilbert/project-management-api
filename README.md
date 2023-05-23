@@ -1,7 +1,11 @@
 # Project manager API
 
 At iO Academy, we wrote an API for a Project Management app, with the front end and database already provided.
-We got as far as the first two URLs below (without the optional parameters) but I've left them in the documentation here for future tinkering...
+So far the API can...
+  Return all projects: https://2023-jan-chickens-project-management-api.dev.io-academy.uk/projects.php
+  Return a specific project: https://2023-jan-chickens-project-management-api.dev.io-academy.uk/project.php?id=1
+
+I've left the rest of the exercise in the documentation here for my own future tinkering...
 
 ## API documentation
 

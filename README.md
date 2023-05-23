@@ -1,17 +1,7 @@
 # Project manager API
 
-## Setup instructions
-
-This API runs on the iO Academy docker infrastructure (see [the docker-image repository](https://github.com/iO-Academy/docker-image/)).
-
-1. Run `composer dump-autoload`
-2. Create a new database called `project_manager`
-2. Import `db/project_manager.sql` into the `project_manager` database
-3. Test against the [example frontend](https://github.com/iO-Academy/project-manager-fe)
-
-## Unit testing
-
-To run unit tests in this project, run `phpunit . ` from the project root directory
+At iO Academy, we wrote an API for a Project Management app, with the front end and database already provided.
+We got as far as the first two URLs below (without the optional parameters) but I've left them in the documentation here for future tinkering...
 
 ## API documentation
 

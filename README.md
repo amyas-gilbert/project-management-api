@@ -4,11 +4,12 @@ At iO Academy, we wrote an API for a Project Management app, with the front end 
 
 So far the API can...
 
-  Return all projects: https://2023-jan-chickens-project-management-api.dev.io-academy.uk/projects.php
+- Return all projects: https://2023-jan-chickens-project-management-api.dev.io-academy.uk/projects.php
   
-  Return a specific project: https://2023-jan-chickens-project-management-api.dev.io-academy.uk/project.php?id=1
+- Return a specific project: https://2023-jan-chickens-project-management-api.dev.io-academy.uk/project.php?id=1
 
-I've left the rest of the exercise in the documentation here for my own future tinkering...
+
+(I've left the rest of the exercise in the documentation here for my own future tinkering...)
 
 ## API documentation
 
